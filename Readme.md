@@ -1,5 +1,5 @@
 ![NeuroStartUp](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png)
-# **NeuroStartUp** - *динамически развивающийся стартап, специализирующийся на поиске с использованием* [Официальный сайт] (https://netology.ru)
+# **NeuroStartUp** - *динамически развивающийся стартап, специализирующийся на поиске с использованием/* [Официальный сайт](https://netology.ru)
 
 ## Высокая точность поиска:
 * обеспечивается ...
